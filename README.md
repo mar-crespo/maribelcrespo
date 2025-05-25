@@ -9,7 +9,7 @@ Welcome to the source code for my personal website! I'm a rising junior at Princ
 - Built with pure HTML and CSS
 
 ## 🌐 Live Website
-[https://maribelcrespo.github.io](https://maribelcrespo.github.io)
+[https://maribelcrespo.github.io/maribelcrespo/](https://maribelcrespo.github.io/maribelcrespo/)
 
 ## 📬 Contact Me
 Feel free to reach out at [maribel@example.com](mailto:maribel@example.com)
